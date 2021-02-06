@@ -1,0 +1,25 @@
+{
+  "name": "socketio-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedBelal15/socketio-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedBelal15/socketio-learning/issues"
+  },
+  "homepage": "https://github.com/AhmedBelal15/socketio-learning#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.1.1",
+    "socket.io-client": "^3.1.1"
+  }
+}
